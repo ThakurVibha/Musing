@@ -15,12 +15,11 @@ I am working on the current version of application so that i can publish applica
 - Minimum SDK level 23
 - MutiScreen application with [Firebase](https://firebase.google.com/docs/android/setup) as Backend for saving User profile data and Login and Signup Authentication.
 - 100% [Java](https://docs.oracle.com/javase/8/docs/).
-- JetPack
-  - LiveData - Notify Domain Layer data to views.
-  - LifeCycle - dispose of observing data when lifecycle state changes.
-  - ViewModel - UI related data holder, lifecycle aware.
-  - Room Persistence - construct a database using the abstract layer.
-  - 
+- Firebase
+  - [Firebase Authentication](https://firebase.google.com/docs/auth/android/start)  - I have used Email Password and Google Sign in to authenticate.
+  - [Firebase Realtime Database](https://firebase.google.com/docs/database)  - Store and sync data with our NoSQL cloud database. Data is synced across all clients in realtime, and remains available when your app goes offline.
+  - [Firebase Storage](https://firebase.google.com/docs/storage)  - Cloud Storage for Firebase is built for app developers who need to store and serve user-generated content, such as photos or videos.
+   
 - [Lottie Animation](https://github.com/airbnb/lottie-android) -  Mobile library for Android that parses Adobe After Effects animations.
 - [Custom google signin button](https://github.com/shobhitpuri/custom-google-signin-button) - A custom SignInButton for Android that supports 'android:text' attribute.
 - [Onboarding screen](https://github.com/Ramotion/paper-onboarding-android) - Android library Paper Onboarding is a material design UI slider written on Java.
