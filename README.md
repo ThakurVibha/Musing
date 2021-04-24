@@ -1,0 +1,3 @@
+# Musing
+
+Meditation 
