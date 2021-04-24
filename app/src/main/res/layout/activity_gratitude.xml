@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FB8762"
+    android:padding="15dp"
+    tools:context=".readings.AnxietyActivity">
+
+    <com.airbnb.lottie.LottieAnimationView
+        android:id="@+id/animation"
+        android:layout_width="376dp"
+        android:layout_height="284dp"
+        android:layout_marginTop="50dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.469"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.027"
+        app:lottie_autoPlay="true"
+        app:lottie_fileName="gratitude.json"
+        app:lottie_loop="true" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="313dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="4dp"
+        android:fontFamily="@font/fredoka"
+        android:text="Anxiety, dont worry"
+        android:textColor="#fff"
+        android:textAlignment="center"
+        android:background="@drawable/gratitude_back"
+        android:textSize="25sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.816"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="300dp"
+        android:padding="18dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <TextView
+            android:id="@+id/textView3"
+            android:layout_width="match_parent"
+            android:layout_height="549dp"
+            android:layout_marginTop="30dp"
+            android:background="@drawable/gratitude_back"
+            android:fontFamily="sans-serif-black"
+            android:text="Anxiety, stress, ptsd, panic and depression can be very debilitating. They drain your energy and make it more difficult to get on with life and do the things you need to do. When they are severe, anxiety and depression can seriously cripple your ability to lead a meaningful life.&#xA; Also, many people are having their lives ruined by the effects of PTSD (post traumatic stress disorder).When we look at the causes of anxiety and depression our thinking processes are often part of the problem. Anxiety becomes habitual when you spend too much time having worrying and frightening thoughts. Your body then gets into very alert and hyper-vigilant state. This means your our body is being flooded with the types of hormones, which makes it even more likely that we will think anxious thoughts. By putting your nervous system on “alert” you 'tell' your nervous system to look for those things which might go wrong (or are going wrong) and to not look for things that are going right. Your perspective becomes one-sided, and distorted towards the negative, without you even realising it. You only see the problems and it gets harder and harder to see the solutions. &#xA;
+
+&#xA;Practising Forgiveness&#xA;
+
+&#xA;Forgiveness can produce deep and powerful changes in your attitudes, beliefs and in your thinking habits. It can set you free from the past so that you can face the future, and you can go forward to create a better future. Forgiveness helps you break through the thought patterns which create fear, anxiety, depression and panic.&#xA;
+
+Practising Forgiveness helps flood your system with positive, life enhancing feelings. These positive feelings, and the associated hormones, make it easier to see and enjoy the good things in life. This in turn makes it easier to become even more forgiving. Forgiveness also makes it easier to feel like reaching out to other people – and reaching out to others is known to be one of the best ways to reduce stress and anxiety, and to help you move out of isolation and depression."
+            android:textAlignment="center"
+            android:textColor="@color/white"
+            android:textSize="20sp"
+            tools:layout_editor_absoluteX="13dp"
+            tools:layout_editor_absoluteY="167dp" />
+    </ScrollView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "172995385670",
+    "project_id": "musing-24c90",
+    "storage_bucket": "musing-24c90.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:172995385670:android:588dd6b37f9642d226ad47",
+        "android_client_info": {
+          "package_name": "com.example.musing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "172995385670-kcsbnh4brl35o9donr6n71ehh4vvnk3q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_gO1_F5P5j6mm4Xl_XWc5QD7IjjGn-XM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "172995385670-kcsbnh4brl35o9donr6n71ehh4vvnk3q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

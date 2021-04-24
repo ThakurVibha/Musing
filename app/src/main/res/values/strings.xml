@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Musing</string>
+    <string name="anxiety_reading">It’s normal to feel anxious about moving to a new place, starting a new job, or taking a test. This type of anxiety is unpleasant, but it may motivate you to work harder and to do a better job.
+        \n\nOrdinary anxiety is a feeling that comes and goes, but does not interfere with your everyday life.
+
+In the case of an anxiety disorder, the feeling of fear may be with you all the time. It is intense and sometimes debilitating.\nThis type of anxiety may cause you to stop doing things you enjoy. In extreme cases, it may prevent you from entering an elevator, crossing the street, or even leaving your home. If left untreated, the anxiety will keep getting worse.
+
+Anxiety disorders are the most common form of emotional disorder and can affect anyone at any age. According to the American Psychiatric Association, women are more likely than men to be diagnosed with an anxiety disorder.</string>
+    <string name="openNavDrawer">Material Navigation Drawer open</string>
+    <string name="closeNavDrawer">Material Navigation Drawer open</string>
+    <string name="heading_anxiety">Everything You Need to Know About Anxiety</string>
+    <string name="favourites">Favourites</string>
+    <string name="music">Music</string>
+    <string name="continue_with_google">Continue with google</string>
+    <string name="save">save</string>
+    <string name="savetext">Save</string>
+    <string name="nickname_string">Hi! What is your cute Nickname?</string>
+    <string name="name">Name</string>
+    <string name="new_sign_up_now">New? Sign Up Now</string>
+    <string name="login_with_email">Login with Email</string>
+    <string name="meditate">Meditate</string>
+    <string name="get_your_daily_dose_of_mindfulness">Get your daily dose of mindfulness</string>
+    <string name="signup">SignUp</string>
+    <string name="login">Login</string>
+    <string name="create_account">Create Account</string>
+    <string name="welcome_back">Welcome back!</string>
+    <string name="musing">Musing</string>
+    <string name="hi_what_is_your_cute_nickname">Hi! What is your cute Nickname?</string>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/meditation"
+        android:icon="@drawable/meditationicon"
+        android:iconTint="#FCFDFC"
+        android:title="@string/meditate" />
+    <item
+        android:id="@+id/yoga"
+        android:icon="@drawable/ic_favorite"
+        android:iconTint="#FBFBFB"
+        android:title="@string/favourites" />
+    <item
+        android:id="@+id/sleepMeditation"
+        android:icon="@drawable/moonicon"
+        android:iconTint="#FBFBFB"
+        android:title="@string/music" />
+
+</menu>
