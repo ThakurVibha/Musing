@@ -25,6 +25,7 @@ I am working on the current version of the application so that I can publish the
 - [Motion Layout](https://developer.android.com/training/constraint-layout/motionlayout) - To implement motions in Readings Screens
 
 # Firebase as Backend
-![alt text](https://user-images.githubusercontent.com/72120614/115960757-0fc64a80-a4c8-11eb-88f0-33977733be2c.png)
+
+(https://user-images.githubusercontent.com/72120614/115960757-0fc64a80-a4c8-11eb-88f0-33977733be2c.png)
 
 
