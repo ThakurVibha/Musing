@@ -9,4 +9,10 @@ I have used handler class with seek bar implementation to play meditation audios
 For user authentication and to save data I have used Firebase as a backend.
 
 I am working on the current version of application so that i can publish application on playstore as soon as possible.
+
+<p float="left">
+<img src="https://user-images.githubusercontent.com/72120614/115957509-c40ba500-a4b7-11eb-9209-4007554b9a68.png" width="220" height="460" />
+ <img src="https://user-images.githubusercontent.com/72120614/115957545-f1f0e980-a4b7-11eb-85a7-92b4bd88f4de.png" width="220" height="460" />
+ <img src="https://user-images.githubusercontent.com/72120614/115957551-fddcab80-a4b7-11eb-9722-afd37606223a.png" width="220" height="460" />
+
  
