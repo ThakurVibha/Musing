@@ -10,10 +10,9 @@ For user authentication and to save data I have used Firebase as a backend.
 
 I am working on the current version of application so that i can publish application on playstore as soon as possible.
 
-<br>
-I am working on the current version of application so that i can publish application on playstore as soon as possible.
-</p>  
+<br></p>  
 </br>
+# Tech stack & Open-source libraries
 
 <p float="left">
 <img src="https://user-images.githubusercontent.com/72120614/115957509-c40ba500-a4b7-11eb-9209-4007554b9a68.png" width="220" height="460" />
