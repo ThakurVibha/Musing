@@ -8,6 +8,12 @@ I have used handler class with seek bar implementation to play meditation audios
 I am working on the current version of the application so that I can publish the application on the play store as soon as possible.
 
 <br></p>  
+
+<p float="left">
+<img src="https://user-images.githubusercontent.com/72120614/115961043-83b52280-a4c9-11eb-98cb-f7dd88c3a6ad.png" width="220" height="460" />
+ <img src="https://user-images.githubusercontent.com/72120614/115961061-9f202d80-a4c9-11eb-957b-409665cf86ce.png" width="220" height="460" />
+ <img src="https://user-images.githubusercontent.com/72120614/115961104-c119b000-a4c9-11eb-8559-f1030ec73058.png" width="220" height="460" />
+
 # Tech stack & Open-source libraries
 - Minimum SDK level 23
 - Multiscreen application with [Firebase](https://firebase.google.com/docs/android/setup) as Backend for saving User profile data and Login and Signup Authentication.
