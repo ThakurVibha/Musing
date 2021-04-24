@@ -7,4 +7,6 @@ I have used three fragments for different purpose as i have included favourite f
 
 I have used handler class with seek bar implementation to play meditation audios.
 For user authentication and to save data I have used Firebase as a backend.
+
+I am working on the current version of application so that i can publish application on playstore as soon as possible.
  
