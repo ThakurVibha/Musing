@@ -1,3 +1,4 @@
+![firebase-storage-logo](https://user-images.githubusercontent.com/72120614/115960820-561ba980-a4c8-11eb-898d-3c4cc63e43e8.png)
 # Musing
 <p align="center">  
 
@@ -26,6 +27,5 @@ I am working on the current version of the application so that I can publish the
 
 # Firebase as Backend
 
-(https://user-images.githubusercontent.com/72120614/115960757-0fc64a80-a4c8-11eb-88f0-33977733be2c.png)
 
 
