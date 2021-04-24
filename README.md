@@ -4,7 +4,7 @@
 Musing is a Full-featured "Meditation application" which is in progress as I am working on the same.
 I have included different functionalities such as Splashscreen, UserprofileScreen, login, Signup, Firebase Google Signup, onboarding screen, Meditation Sessions and Music with different Fragments and many more.
 
-I have used handler class with seek bar implementation to play meditation audios.
+I have used Mediaplayer class with Handler and seek bar implementation to play meditation audios.
 I am working on the current version of the application so that I can publish the application on the play store as soon as possible.
 
 <br></p>  
