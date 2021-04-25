@@ -31,7 +31,7 @@ I am working on the current version of the application so that I can publish the
 - [Motion Layout](https://developer.android.com/training/constraint-layout/motionlayout) - To implement motions in Readings Screens
 
 # Firebase as Backend
-<img src="https://user-images.githubusercontent.com/72120614/115960820-561ba980-a4c8-11eb-898d-3c4cc63e43e8.png" width="220" height="460" />
+<img src="https://user-images.githubusercontent.com/72120614/115960820-561ba980-a4c8-11eb-898d-3c4cc63e43e8.png" width="700" height="200" />
 
 
 
