@@ -10,9 +10,9 @@ I am working on the current version of the application so that I can publish the
 <br></p>  
 
 <p float="left">
-<img src="https://user-images.githubusercontent.com/72120614/115961043-83b52280-a4c9-11eb-98cb-f7dd88c3a6ad.png" width="220" height="460" />
- <img src="https://user-images.githubusercontent.com/72120614/115961061-9f202d80-a4c9-11eb-957b-409665cf86ce.png" width="220" height="460" />
- <img src="https://user-images.githubusercontent.com/72120614/115961104-c119b000-a4c9-11eb-8559-f1030ec73058.png" width="220" height="460" />
+<img src="https://user-images.githubusercontent.com/72120614/115961043-83b52280-a4c9-11eb-98cb-f7dd88c3a6ad.png" width="250" height="480" />
+ <img src="https://user-images.githubusercontent.com/72120614/115961061-9f202d80-a4c9-11eb-957b-409665cf86ce.png" width="250" height="480" />
+ <img src="https://user-images.githubusercontent.com/72120614/115961104-c119b000-a4c9-11eb-8559-f1030ec73058.png" width="250" height="480" />
 
 # Tech stack & Open-source libraries
 - Minimum SDK level 23
