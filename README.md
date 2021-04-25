@@ -9,7 +9,7 @@ I am working on the current version of the application so that I can publish the
 
 <br></p>  
 
-<p float="left">
+<p float="center">
 <img src="https://user-images.githubusercontent.com/72120614/115961043-83b52280-a4c9-11eb-98cb-f7dd88c3a6ad.png" width="250" height="480" />
  <img src="https://user-images.githubusercontent.com/72120614/115961061-9f202d80-a4c9-11eb-957b-409665cf86ce.png" width="250" height="480" />
  <img src="https://user-images.githubusercontent.com/72120614/115961104-c119b000-a4c9-11eb-8559-f1030ec73058.png" width="250" height="480" />
@@ -48,9 +48,5 @@ I am working on the current version of the application so that I can publish the
 - [Glide](https://github.com/bumptech/glide) - For Loading Images
 - [Material-Components](https://github.com/material-components/material-components-android) - Material design components like Navigation drawer etc.
 - [Motion Layout](https://developer.android.com/training/constraint-layout/motionlayout) - To implement motions in Readings Screens
-
-# Firebase as Backend
-<img src="https://user-images.githubusercontent.com/72120614/115960820-561ba980-a4c8-11eb-898d-3c4cc63e43e8.png" width="700" height="200" />
-
 
 
