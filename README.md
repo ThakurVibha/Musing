@@ -22,6 +22,7 @@ I am working on the current version of the application so that I can publish the
  
  <img src="https://user-images.githubusercontent.com/72120614/115976887-497a6e00-a527-11eb-92b6-007435d38d37.png" width="250" height="480" />
  <img src="https://user-images.githubusercontent.com/72120614/115976905-69aa2d00-a527-11eb-88a1-9471f29aa749.png" width="250" height="480" />
+ <img src="https://user-images.githubusercontent.com/72120614/115976901-63b44c00-a527-11eb-933f-66f4d6135441.png" width="250" height="480" />
 
  <img src="https://user-images.githubusercontent.com/72120614/115976890-4da68b80-a527-11eb-9510-11129aaea48a.png" width="250" height="480" />
 
@@ -29,7 +30,6 @@ I am working on the current version of the application so that I can publish the
 
  <img src="https://user-images.githubusercontent.com/72120614/115976896-58612080-a527-11eb-83ba-c46f19577120.png" width="250" height="480" />
 
- <img src="https://user-images.githubusercontent.com/72120614/115976901-63b44c00-a527-11eb-933f-66f4d6135441.png" width="250" height="480" />
 
 
 
