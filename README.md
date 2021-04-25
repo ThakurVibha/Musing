@@ -42,7 +42,8 @@ I am working on the current version of the application so that I can publish the
   - [Firebase Authentication](https://firebase.google.com/docs/auth/android/start)  - I have used Firebase Email Password and Google Sign in to authenticate User.
   - [Firebase Realtime Database](https://firebase.google.com/docs/database)  - Store and sync data with our NoSQL cloud database. Data is synced across all clients in real-time and remains available when your app goes offline.
   - [Firebase Storage](https://firebase.google.com/docs/storage)  - Cloud Storage for Firebase is built for app developers who need to store and serve user-generated content, such as photos or videos.
-   
+   - [Fragments](https://developer.android.com/guide/fragments) - A Fragment represents a reusable portion of your app's UI. A fragment defines and manages its own layout, has its own lifecycle, and can handle its own input events.
+
 - [Lottie Animation](https://github.com/airbnb/lottie-android) -  Mobile library for Android that parses Adobe After Effects animations.
 - [Custom google signin button](https://github.com/shobhitpuri/custom-google-signin-button) - A custom SignInButton for Android that supports 'android:text' attribute.
 - [Onboarding screen](https://github.com/Ramotion/paper-onboarding-android) - Android library Paper Onboarding is a material design UI slider written on Java.
