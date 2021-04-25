@@ -39,7 +39,7 @@ I am working on the current version of the application so that I can publish the
 - Multiscreen application with [Firebase](https://firebase.google.com/docs/android/setup) as Backend for saving User profile data and Login and Signup Authentication.
 - 100% [Java](https://docs.oracle.com/javase/8/docs/).
 - Firebase
-  - [Firebase Authentication](https://firebase.google.com/docs/auth/android/start)  - I have used Email Password and Google Sign in to authenticate.
+  - [Firebase Authentication](https://firebase.google.com/docs/auth/android/start)  - I have used Firebase Email Password and Google Sign in to authenticate User.
   - [Firebase Realtime Database](https://firebase.google.com/docs/database)  - Store and sync data with our NoSQL cloud database. Data is synced across all clients in real-time and remains available when your app goes offline.
   - [Firebase Storage](https://firebase.google.com/docs/storage)  - Cloud Storage for Firebase is built for app developers who need to store and serve user-generated content, such as photos or videos.
    
