@@ -11,7 +11,7 @@ I am working on the current version of the application so that I can publish the
 <br></p>  
 
 <p float="center">
- <img src="https://user-images.githubusercontent.com/72120614/117272207-ceab3000-ae0f-11eb-9921-a15e56bfbc34.png" width="600" height="600"/>
+ <img src="https://user-images.githubusercontent.com/72120614/117272207-ceab3000-ae0f-11eb-9921-a15e56bfbc34.png" width="600" height="400"/>
  <img src="https://user-images.githubusercontent.com/72120614/115977039-d7a32400-a528-11eb-9e41-7efe090c94d3.png" width="250" height="480" />
  <img src="https://user-images.githubusercontent.com/72120614/115961061-9f202d80-a4c9-11eb-957b-409665cf86ce.png" width="250" height="480" />
  <img src="https://user-images.githubusercontent.com/72120614/115961104-c119b000-a4c9-11eb-8559-f1030ec73058.png" width="250" height="480" />
