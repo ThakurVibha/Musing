@@ -11,12 +11,11 @@ I am working on the current version of the application so that I can publish the
 <br></p>  
 
 <p float="center">
-<img src="https://user-images.githubusercontent.com/72120614/115961043-83b52280-a4c9-11eb-98cb-f7dd88c3a6ad.png" width="250" height="480" />
+ <img src="https://user-images.githubusercontent.com/72120614/117272207-ceab3000-ae0f-11eb-9921-a15e56bfbc34.png" width="600" height="600"/>
  <img src="https://user-images.githubusercontent.com/72120614/115977039-d7a32400-a528-11eb-9e41-7efe090c94d3.png" width="250" height="480" />
  <img src="https://user-images.githubusercontent.com/72120614/115961061-9f202d80-a4c9-11eb-957b-409665cf86ce.png" width="250" height="480" />
  <img src="https://user-images.githubusercontent.com/72120614/115961104-c119b000-a4c9-11eb-8559-f1030ec73058.png" width="250" height="480" />
   <img src="https://user-images.githubusercontent.com/72120614/115976810-9873d380-a526-11eb-9aac-7f8d32a208c3.png" width="250" height="480" />
- <img src="https://user-images.githubusercontent.com/72120614/115976857-fef8f180-a526-11eb-904e-d1929d241168.png" width="250" height="480" />
  <img src="https://user-images.githubusercontent.com/72120614/115976863-09b38680-a527-11eb-96d2-0d70cb144737.png" width="250" height="480" />
  <img src="https://user-images.githubusercontent.com/72120614/115976866-0fa96780-a527-11eb-9eaf-3aa1085d781a.png" width="250" height="480" />
  <img src="https://user-images.githubusercontent.com/72120614/115976883-42536000-a527-11eb-9c74-19ea32288184.png" width="250" height="480" />
